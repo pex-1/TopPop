@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ProgressBar -->
+    <dimen name="default_thickness">2dp</dimen>
+    <dimen name="default_inner_padding">10dp</dimen>
+    <dimen name="progress_bar_size">20dp</dimen>
+
+    <!-- spacing -->
+    <dimen name="spacing_1x">10dp</dimen>
+    <dimen name="spacing_2x">20dp</dimen>
+    <dimen name="spacing_3x">30dp</dimen>
+    <dimen name="spacing_4x">40dp</dimen>
+
+    <dimen name="collapsing_toolbar_height">350dp</dimen>
+    <dimen name="collapsing_layout_view_height">160dp</dimen>
+    <dimen name="details_toolbar_margin_top">24dp</dimen>
+
+    <dimen name="subtitle_text_size">14sp</dimen>
+    <dimen name="title_text_size">24sp</dimen>
+    <dimen name="small_subtitle_text_size">12sp</dimen>
+    <dimen name="progress_bar_margin_top">100dp</dimen>
+
+    <!-- item -->
+    <dimen name="position_text_size">30sp</dimen>
+    <dimen name="chart_image_margin_top">12dp</dimen>
+    <dimen name="chart_image_margin_start">100dp</dimen>
+    <dimen name="item_title_text_size">16sp</dimen>
+    <dimen name="item_subtitle_text_size">12sp</dimen>
+    <dimen name="item_subtitle_margin_start">8dp</dimen>
+    <dimen name="item_subtitle_margin_top">2dp</dimen>
+</resources>

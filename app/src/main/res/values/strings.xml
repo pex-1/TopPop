@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TopPop</string>
+
+    <!-- content description -->
+    <string name="album_cover">album cover</string>
+    <string name="chart_thumbnail">chart thumbnail</string>
+
+    <!-- menu items -->
+    <string name="normal">normal</string>
+    <string name="sort_asc">sort asc</string>
+    <string name="sort_desc">sort desc</string>
+</resources>
